@@ -1,6 +1,6 @@
 # Esp32-Wifi-Manager
 
-### Codigo copiado mejorarlo
+### Codigo no probado se debe mejorar
 ahi que descargar la libreria de wifi manger
 ```c++
 #include <WiFiManager.h> 
