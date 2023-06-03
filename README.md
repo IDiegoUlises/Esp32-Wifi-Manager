@@ -48,3 +48,5 @@ void loop()
   //Aqui el codigo principal  
 }
 ```
+
+<img src="https://github.com/IDiegoUlises/Esp32-Wifi-Manager/blob/main/images/Modificado-WiFi.jpg" width="1000" height="500" />
