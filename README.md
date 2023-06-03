@@ -58,4 +58,5 @@ void loop()
 ### Insertar las credenciales de la red Wifi para guardar
 <img src="https://github.com/IDiegoUlises/Esp32-Wifi-Manager/blob/main/images/Screenshot_2023-06-02-22-39-51-932_com.google.android.captiveportallogin.jpg" width="400" height="800" />
 
-* Guarda las credenciales de la red en la memoria
+* Solo se debe agregar las credenciales una sola vez
+* Guarda las credenciales en la memoria
