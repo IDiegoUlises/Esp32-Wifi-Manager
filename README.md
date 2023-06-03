@@ -55,7 +55,7 @@ void loop()
 ### Configurar la red 
 <img src="https://github.com/IDiegoUlises/Esp32-Wifi-Manager/blob/main/images/Screenshot_2023-06-02-22-39-21-117_com.google.android.captiveportallogin.jpg" width="400" height="800" />
 
-### Insertar las credenciales de la red Wifi para guardar
+### Insertar las credenciales de la red Wifi
 <img src="https://github.com/IDiegoUlises/Esp32-Wifi-Manager/blob/main/images/Screenshot_2023-06-02-22-39-51-932_com.google.android.captiveportallogin.jpg" width="400" height="800" />
 
 * Solo se deben agregar las credenciales una sola vez
