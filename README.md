@@ -53,7 +53,7 @@ void loop()
 <img src="https://github.com/IDiegoUlises/Esp32-Wifi-Manager/blob/main/images/Modificado-WiFi.jpg" width="500" height="800" />
 
 ### Configurar la red 
-<img src="https://github.com/IDiegoUlises/Esp32-Wifi-Manager/blob/main/images/Screenshot_2023-06-02-22-39-21-117_com.google.android.captiveportallogin.jpg" width="500" height="800" />
+<img src="https://github.com/IDiegoUlises/Esp32-Wifi-Manager/blob/main/images/Screenshot_2023-06-02-22-39-21-117_com.google.android.captiveportallogin.jpg" width="400" height="800" />
 
 ### Insertar las credenciales de la red Wifi para guardar
 <img src="https://github.com/IDiegoUlises/Esp32-Wifi-Manager/blob/main/images/Screenshot_2023-06-02-22-39-51-932_com.google.android.captiveportallogin.jpg" width="500" height="800" />
