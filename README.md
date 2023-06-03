@@ -80,7 +80,7 @@ void setup()
         Serial.println("Error al conectar");
         
         //Para reinciar el Esp32, esta linea esta comentada
-        //ESP.restart(); //Solo utilizar en caso las credenciales esten equivocadas
+        //ESP.restart(); //Solo utilizar en caso que las credenciales esten equivocadas
     } 
     else 
     {
