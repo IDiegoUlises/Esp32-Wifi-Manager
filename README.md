@@ -49,4 +49,4 @@ void loop()
 }
 ```
 
-<img src="https://github.com/IDiegoUlises/Esp32-Wifi-Manager/blob/main/images/Modificado-WiFi.jpg" />
+<img src="https://github.com/IDiegoUlises/Esp32-Wifi-Manager/blob/main/images/Modificado-WiFi.jpg" width="500" height="500" />
