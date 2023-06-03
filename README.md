@@ -65,8 +65,8 @@ void setup()
     // wm.resetSettings(); //Borra las credenciales guardadas
 
     //Automaticamente se conecta usando las credenciales guardadas
-    //Si la conexion falla, comienza un punto de acesso con el nombre ( "AutoConnectAP") o con el nombre que se asigne
-    //Luego entra en un bucle en espera de configuracion y devolvera un resultado exitoso
+    //Si la conexion falla, comienza un punto de acesso con el nombre ("AutoConnectAP") o con el nombre que se asigne
+    //Luego entra en un bucle de configuracion hasta devolver un resultado exitoso
 
     bool res;
 
